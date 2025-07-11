@@ -7,6 +7,7 @@ This repository is a template to create a knowledge base docs website:
 
 > [!NOTE]
 > `content/` — The directory where your knowledge base docs exist.
+> 
 > *(This directory can be opened in Obsidian, Visual Studio Code, or any other Markdown editor. Obsidian is recommended.)*
 
 ## Get started immediately
